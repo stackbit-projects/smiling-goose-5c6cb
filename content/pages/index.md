@@ -14,7 +14,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/classic/hero.png
+    image: images/Group 21.JPG
     media_position: left
     media_width: fifty
     align: left
