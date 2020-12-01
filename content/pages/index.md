@@ -4,7 +4,9 @@ sections:
   - type: hero_section
     title: Communications That Engage
     subtitle: We craft translations that speak to your audience.
-    content: Expand your organization's reach with professional language services.
+    content: >-
+      9 out of 10 people will ignore your content if it's not in their language.
+      Expand your organization's reach with professional language services.
     actions:
       - label: Contact Us
         url: /pricing
