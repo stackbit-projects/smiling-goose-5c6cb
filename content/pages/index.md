@@ -6,7 +6,7 @@ sections:
     subtitle: We craft translations that speak to your audience.
     content: Expand your organization's reach with professional language services.
     actions:
-      - label: Try Free
+      - label: Contact Us
         url: /pricing
         style: primary
       - label: Learn More
